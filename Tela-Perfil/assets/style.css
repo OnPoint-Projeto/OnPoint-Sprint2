@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inder&display=swap'); /*fonte do google fonts*/
+
+body{
+    background-image: radial-gradient(circle, #8c52ff, #945efe, #9b6afc, #a275fb, #a980f9)!important;
+    font-family: 'Inder'!important;
+    color: white!important;
+}
+
+nav{
+    background-image: radial-gradient(circle, #8c52ff,#7444D4, #7444D4, #7444D4, #7444D4)!important;
+    font-family: 'Inder'!important;
+    color: white!important;
+}
+p{
+    margin-top: 8rem;
+}
+
+.container.row.col.imagem{
+
+}
+
+.espaco{
+    margin-top: 30px;
+}
